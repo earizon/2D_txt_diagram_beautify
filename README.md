@@ -1,7 +1,7 @@
 
 # Apropos
 
-This Keep it simple and stupid scripts lets you draw 2D diagrams
+This Keep it simple and stupid script (KISS) lets you draw 2D diagrams
 with your keyboard and then, beautify them with Unicode.
 
 Example:
